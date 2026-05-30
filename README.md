@@ -1,22 +1,24 @@
-# 👨‍💻 Omar | System Architect & Developer
+# 👨‍💻 Omar | Software Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45E67F&center=true&vCenter=true&width=435&lines=Building+Robust+APIs;Designing+Complex+SQL;Automating+The+Boring+Stuff;Full-Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=45E67F&center=true&vCenter=true&width=500&lines=Building+Backend+Applications;Learning+AI+Automation;Developing+with+.NET+and+Python;Exploring+Data+Analysis" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🟢 Status: Running System Tests...
-> I specialize in the "Hard Parts" of the web: stable backends, clean data architecture, and rigorous API testing.
+### 🟢 Currently Working On
+
+> Building backend applications, exploring AI automation, and improving my software engineering skills through hands-on projects.
 
 ---
 
-### 🛠️ The Tech Stack Console
+### 🛠️ Tech Stack
 
 ```json
 {
-  "logic": ["C#", "Python"],
-  "persistence": "SQL (PostgreSQL/SQL Server)",
-  "validation": "Postman",
-  "tools": ["Git", "Docker", ".NET Core"]
+  "languages": ["C#", "Python", "SQL"],
+  "frameworks": [".NET", "ASP.NET Core"],
+  "databases": ["SQL Server", "PostgreSQL"],
+  "tools": ["Git", "Docker", "Postman"],
+  "interests": ["Backend Development", "AI Automation", "Data Analysis"]
 }
